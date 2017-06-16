@@ -24,7 +24,7 @@ for multiple jmap files:
 		...
 		InputFilen xOffsetn yOffsetn
 
-### Bugs
+## Bugs:
 
 Does not gracefully handle ill-formed input files.
 
